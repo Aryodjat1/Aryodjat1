@@ -8,7 +8,7 @@ Hi, I'm Aryo Djati, Student From SMK Telkom Malang.
 - 🔭 I’m currently working on [renderless-components](https://github.com/timelessco/renderless-components)
 - 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/Aryodjat1/github-readme-stats)
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/Aryodjat1/issues)
+- 💬 Ask me about anything [here](https://github.com/Aryodjat1/Aryodjat1/issues)
 
 <!--- 
   if you have forked this to use on your profile, 
@@ -21,7 +21,7 @@ Hi, I'm Aryo Djati, Student From SMK Telkom Malang.
 
 
 <a href="https://github.com/Aryodjat1/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.Aryodjat1.vercel.app/api?username=Aryodjat1&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.Aryodjat1.vercel.app/api?username=Aryodjat1&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Aryo's github stats" />
 </a>
 <a href="https://github.com/Aryodjat1/github-readme-stats">
   <!-- Change the `github-readme-stats.Aryodjat1.vercel.app` to `github-readme-stats.vercel.app`  -->
